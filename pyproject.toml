@@ -3,6 +3,7 @@ name = "wordcloudja"
 version = "0.1.0"
 description = ""
 authors = ["Niten Nashiki <n.nashiki.work@gmail.com>"]
+include = ["wordcloudja/data/*"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
